@@ -7,58 +7,36 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
-Education
+Education Overview
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 📚 Ph.D student in <i> Advances in Infectious diseases, microbiology, legal medicine and public health sciences </i> </br>
+&ensp; [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Italy </br>
+&ensp; 2022 - Present </br>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Third year student (38° cycle) under the supervision of Prof. [Maria Pia Conte](https://dspmi.uniroma1.it/en/node/5640). </br>
+Research experience abroad (Nov. 2023 - Present) under the supervision of [Karel Břinda](https://brinda.eu/) ([Genscale](https://team.inria.fr/genscale/) team) at [INRIA Center at Rennes University](https://www.inria.fr/fr/centre-inria-universite-rennes), France.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 📚 M.S. in <i> Bioinformatica </i> </br>
+&ensp; [Torvergata University of Rome](https://web.uniroma2.it/en), Italy </br>
+&ensp; 2020 - 2022 </br>
 
-Publications
+M.S. Thesis: <i> Genotypic characterization of Staphylococcus aureus strains from patients affected by atopic dermatitis </i> – A microbial genomic study conducted under the supervision of Prof. [Maria Pia Conte](https://dspmi.uniroma1.it/en/node/5640) and Dr. Massimiliano Marazzato, [Department of Public Health and Infectious Diseases](https://dspmi.uniroma1.it/en), Sapienza University.
+
+
+## 📚 B.S. in <i> Bioinformatics </i> </br>
+&ensp; [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Italy </br>
+&ensp; 2016 - 2019 </br>
+
+B.S. Thesis: <i> Characterization of Nasal Microbiota in Children with Chronic Hypertrophy and Allergic Rhinitis </i> – A metagenomic study conducted under the supervision of Prof. [Maria Pia Conte](https://dspmi.uniroma1.it/en/node/5640) and Dr. Massimiliano Marazzato,  [Department of Public Health and Infectious Diseases](https://dspmi.uniroma1.it/en), Sapienza University.
+
+
+The entire B.Sc. program was taught in English.
+
+
+Full CV
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+🚧 Coming soon 🚧

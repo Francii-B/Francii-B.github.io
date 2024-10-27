@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Francesca Brunetti"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Francesca"
+description              : "personal description"
 url                      : https://francii-b.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "francii-b/francii-b.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile_picture.jpg"
   name             : "Francesca Brunetti"
   pronouns         : #"she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location1        : "Rome, Italy"
-  location2        : "Rennes, France"
+  bio              : #"Short biography for the left-hand sidebar"
+  location2        : "Rome, Italy"
+  location1        : "Rennes, France"
   employer         : "Sapienza University of Rome"
   uri              : # URL
   email            : "francesca.brunetti@uniroma1.it" 
