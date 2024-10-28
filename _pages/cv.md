@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Curriculum vitae"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %} 
@@ -13,9 +13,13 @@ redirect_from:
 <hr>
 
 <b> 📚 Ph.D student in <i> Advances in Infectious diseases, microbiology, legal medicine and public health sciences </i> </b> <br>
+:   [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Italy <br> 2022 - Present <br>
+
+<!---
+<b> 📚 Ph.D student in <i> Advances in Infectious diseases, microbiology, legal medicine and public health sciences </i> </b> <br>
 &ensp; [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Italy <br>
 &ensp; 2022 - Present <br>
-<!---
+
 Third year student (38° cycle) under the supervision of Prof. [Maria Pia Conte](https://dspmi.uniroma1.it/en/node/5640). <br>
 Research experience abroad (Nov. 2023 - Present) under the supervision of [Karel Břinda](https://brinda.eu/) ([Genscale](https://team.inria.fr/genscale/) team) at [INRIA Center at Rennes University](https://www.inria.fr/fr/centre-inria-universite-rennes), France.
 --->
