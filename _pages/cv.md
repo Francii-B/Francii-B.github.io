@@ -1,5 +1,5 @@
 ---
-#layout: archive
+layout: archive
 title: "Resume"
 permalink: /cv/
 author_profile: true
