@@ -12,7 +12,7 @@ redirect_from:
 ## Education Overview
 <hr>
 
-<b> 📚 Ph.D student in <i> Advances in Infectious diseases, microbiology, legal medicine and public health sciences </i> </b>
+📚 Ph.D student in <i> Advances in Infectious diseases, microbiology, legal medicine and public health sciences </i>
 :   [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Italy <br> 
 2022 - Present
 <!---
