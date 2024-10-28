@@ -6,7 +6,7 @@
 
 main:
   - title: "Resume"
-    url: /resume/
+    url: /cv/
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=yDVYJaoAAAAJ&hl=en
