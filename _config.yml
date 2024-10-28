@@ -306,7 +306,6 @@ plugins:
   - jemoji
 
 
-
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
