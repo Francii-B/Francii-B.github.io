@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %} 
 
 ## Education Overview
-<hr>
 
 <b> 📚 Ph.D student in <i> Advances in Infectious diseases, microbiology, legal medicine and public health sciences </i> <b>
 :   [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Italy <br> 
@@ -37,6 +36,5 @@ The entire B.Sc. program was taught in English.
  --->
 
 ## Full CV
-<hr>
 
 🚧 Coming soon 🚧
