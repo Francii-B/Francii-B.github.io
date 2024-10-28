@@ -304,6 +304,9 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
