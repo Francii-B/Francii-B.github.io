@@ -183,6 +183,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - assets
 keep_files:
   - .git
   - .svn
@@ -303,6 +304,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme
+
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 
 # Mimic GitHub Pages with --safe

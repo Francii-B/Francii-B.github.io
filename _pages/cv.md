@@ -1,5 +1,5 @@
 ---
-layout: archive
+#layout: archive
 title: "Resume"
 permalink: /cv/
 author_profile: true
@@ -11,17 +11,7 @@ redirect_from:
 
 ## Education Overview
 
-Definition List Title
-:   Definition list division.
-
-📚 Definition List Title
-:   Definition list division.
-
-
-Definition List <i> Title </i>
-:   Definition list division.
-
-📚 Ph.D student in <i> Advances in Infectious diseases, microbiology, legal medicine and public health sciences </i>
+<b> 📚 Ph.D student in <i> Advances in Infectious diseases, microbiology, legal medicine and public health sciences </i> <b>
 :   [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Italy <br> 
 2022 - Present
 <!---
