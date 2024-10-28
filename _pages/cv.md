@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %} 
 
 ## Education Overview
-<hr>
 
 Definition List Title
 :   Definition list division.
 
 📚 Definition List Title
 :   Definition list division.
+
 
 Definition List <i> Title </i>
 :   Definition list division.
@@ -35,6 +35,7 @@ Research experience abroad (Nov. 2023 - Present) under the supervision of [Karel
 <!---
 M.S. Thesis: <i> Genotypic characterization of Staphylococcus aureus strains from patients affected by atopic dermatitis </i> – A microbial genomic study conducted under the supervision of Prof. [Maria Pia Conte](https://dspmi.uniroma1.it/en/node/5640) and Dr. Massimiliano Marazzato, [Department of Public Health and Infectious Diseases](https://dspmi.uniroma1.it/en), Sapienza University.
 --->
+
 <b> 📚 B.S. in <i> Bioinformatics </i> </b>
 :   [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Italy <br>
 2016 - 2019
@@ -46,6 +47,5 @@ The entire B.Sc. program was taught in English.
  --->
 
 ## Full CV
-<hr>
 
 🚧 Coming soon 🚧
