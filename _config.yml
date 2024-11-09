@@ -27,6 +27,8 @@ author:
   bio              : "I'm a bioinformatician dedicated to microbial genomics and public health"
   location2        : "Rome, Italy"
   location1        : "Rennes, France"
+  location2_link   : "https://maps.app.goo.gl/1nqKhKDfRNoQzYto6"
+  location1_link   : "https://maps.app.goo.gl/XYd8rxbXUHAYHZ5r9"
   employer         : "Sapienza University of Rome"
   uri              : # URL
   email            : "francesca.brunetti@uniroma1.it" 
