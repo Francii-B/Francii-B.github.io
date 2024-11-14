@@ -24,11 +24,9 @@ author:
   avatar           : "profile_picture.jpg"
   name             : "Francesca Brunetti"
   pronouns         : #"she/her"  
-  bio              : "I'm a bioinformatician interested in microbial genomics and public health"
+  bio              : "I'm a bioinformatician dedicated to microbial genomics and public health"
   location2        : "Rome, Italy"
   location1        : "Rennes, France"
-  location2_link   : "https://maps.app.goo.gl/1nqKhKDfRNoQzYto6"
-  location1_link   : "https://maps.app.goo.gl/XYd8rxbXUHAYHZ5r9"
   employer         : "Sapienza University of Rome"
   uri              : # URL
   email            : "francesca.brunetti@uniroma1.it" 
@@ -86,7 +84,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : 500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -280,9 +278,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: grid
+      type: talks
     values:
-      layout: talk
+      layout: grid
       author_profile: true
       share: true
 
