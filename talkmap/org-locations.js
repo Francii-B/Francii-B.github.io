@@ -1,22 +1,14 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "ICBRA 2023 - Barcelona, Spain",
+    41.38450482197384, 2.1378158277288044
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Sapienza University of Rome - Rome, Italy",
+    41.90388234789459, 12.514556414260293
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Inria centre at Rennes University - Rennes, France",
+    48.11633382466164, -1.6397747965499516
   ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
-  ]
 ];
