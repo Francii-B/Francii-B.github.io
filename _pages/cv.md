@@ -38,4 +38,4 @@ The entire B.Sc. program was taught in English.
 
 ## Full CV
 
-Click [here](../files/CV_Brunetti-03-06-25.pdf) to view my full CV
+Click [here](../files/CV_Brunetti-15-07-25.pdf) to view my full CV
